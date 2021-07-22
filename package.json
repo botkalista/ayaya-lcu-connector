@@ -1,0 +1,20 @@
+{
+  "name": "ayaya-lcu-connector",
+  "version": "3.1.1",
+  "description": "Simple lib to interact with LCU",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "LCU",
+    "League of Legends",
+    "ayaya"
+  ],
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "ws": "^7.4.3"
+  },
+  "author": "Emily",
+  "license": "MIT"
+}
